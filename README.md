@@ -9,7 +9,7 @@ Inventory management
 Autonomous robot movement 
 
 #Hardware used
-Arduino
+Arduino.
 IR sensors
 Motordriver (L298N)
 DC motors
